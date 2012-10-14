@@ -9,5 +9,5 @@ Or you can [email us][email] for more information.
 This is the website live on [kenthack.com][website].
 
 [email]:   mailto:james@kenthack.com
-[twitter]: http://twitter.com
+[twitter]: http://twitter.com/kenthack
 [website]: http://kenthack.com
