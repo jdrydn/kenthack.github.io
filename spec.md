@@ -2,18 +2,10 @@
 
 This is an initial draft of a spec for a hackathon at the University of Kent. If you have any questions or want to get in touch, please contact [James](#contact).
 
-## Who
+## When
 
-* James Dryden
-  * Stage 2 Computer Science Student at the University of Kent
-  * [james@kenthack.com][email-james]
-* Rebecca Arnold
-  * School Rep for the School of Computing
-  * Stage 2 Computer Science Student at the University of Kent.
-  * [becca@kenthack.com][email-becca]
-* Matthew House
-  * Stage 2 Computer Science Student at the University of Kent.
-  * [matt@kenthack.com][email-matt]
+* Project Week in Spring 2013?
+* After exams?
 
 ## What
 
@@ -26,6 +18,8 @@ A hackathon for students (*& teens*) around Canterbury.
 Hosted by the University of Kent.
 
 A two-day event of hacking and building prototypes.
+
+Usually with prizes at the end, in recognition of awesome work and excellent teams!
 
 ### Format
 
@@ -47,10 +41,15 @@ All `code` produced must be fresh (i.e. Only written during the event). Existing
 
 Would like to have talks throughout the event on different areas. I.e:
 
-* **Shane** talking about his `WebcamJS` or about `NodeJS`.
+* *Shane* talking about his `WebcamJS` or about `NodeJS`.
 * A lecturer talking about `Java`?
-* Microsoft representation talking about Windows?
-  * *Blake?*
+* Microsoft representation talking about Windows development? *Blake?*
+* I'll happily chat about `entities` `:D`
+* Would love to get some real APIs and sponsors in:
+  * Twilio? *Stevie Graham?*
+  * Pusher? *Phil Leggat?*
+  * Redbull?
+  * Dominoes?
 
 Could be open to teens & students outside of UKC, but that makes getting resources harder (people outside UKC don't have access to eduroam)
 
@@ -71,7 +70,7 @@ Employers (especially employers for startups and other small businesses) love se
 > I attended **Kenthack**, a hackathon based at my university, where I made FindMe, a people tracking app for Androids. Published to GitHub after the event.
 > http://github.com/kenthack/2012-FindMe
 
-Repository names should follow a "{Year}-{Name}" structure, and we add people's GitHub accounts to teams on the Kenthack page, and then link teams to each repository so they can push and pull code `:)`.
+Repository names should follow a "{Year}-{Name}" structure (`kenthack/2012-myamazingproject`), and we add people's GitHub accounts to teams on the Kenthack page, and then link teams to each repository so they can push and pull code `:)`.
 
 <!--
 Will need to create an admin / helper team, and add that team to all repos so helpers can push and pull code to help people :)
@@ -97,7 +96,7 @@ GitHub, based on Git, also offers version control, which make coding in teams re
   * Kent Business School?
 * Helpers
   * Although I have a couple of people in mind, it would be nice to have some volunteers to help with running the event!
-    * Could contact *KentUnion* to ask about *E&V* and getting their involvement?
+    * (Could contact *KentUnion* to ask about *E&V* support and getting their involvement?)
 
 ### Example Schedule
 
@@ -117,12 +116,30 @@ GitHub, based on Git, also offers version control, which make coding in teams re
     * Has five minutes to demo their project.
     * Questions from judges & audience.
   * Judges talk?
-  * Awards & closing talk.
+  * Prizes & closing talk.
 
-## When
+## Who
 
-* Project Week in Spring 2013?
-* After exams?
+### Who are we?
+
+* James Dryden
+  * Stage 2 Computer Science Student at the University of Kent
+  * [james@kenthack.com][email-james]
+* Rebecca Arnold
+  * School Rep for the School of Computing
+  * Stage 2 Computer Science Student at the University of Kent.
+  * [becca@kenthack.com][email-becca]
+* Matthew House
+  * Stage 2 Computer Science Student at the University of Kent.
+  * [matt@kenthack.com][email-matt]
+
+### Who is this aimed at?
+
+This is aimed at students in Canterbury. Specifically, University of Kent students, since we don't have internet access for non-students, and I don't know of any way round that (excluding Internet Sharing options, which I don't want to do since it's nasty `:/`).
+
+Students of all ages. From first-years to post-graduates. This may appear to present an unfair advantage - pitching a group of first years against a group of graduates. Whilst at first this appears to be true, (a) in the real world age doesn't matter, so I don't see why it should apply here, and (b) I've attended a hackathon where a group of (then) first-years took on people well into their twenties, and came out successful. So age really doesn't matter. Plus, you never know, they could work together and produce something even more awesome `^_^`.
+
+Obviously, if we have prizes and awards and stuff, there would be one specific for each year group. "*Best Stage 1 project*", "*Best Stage 2 project*", "*Best Stage 3 project*", "*Best Postgraduate project*", "*Best Undergraduate project*", etc etc.
 
 ## Why
 
