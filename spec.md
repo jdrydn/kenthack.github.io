@@ -11,6 +11,9 @@ This is an initial draft of a spec for a hackathon at the University of Kent. If
   * School Rep for the School of Computing
   * Stage 2 Computer Science Student at the University of Kent.
   * [becca@kenthack.com][email-becca]
+* Matthew House
+  * Stage 2 Computer Science Student at the University of Kent.
+  * [matt@kenthack.com][email-matt]
 
 ## What
 
@@ -55,6 +58,10 @@ Could be open to teens & students outside of UKC, but that makes getting resourc
 
 I am playing with the idea that we should encourage all projects to be open source, or at least the code produced during the event should be released on GitHub. I have setup a [**#Kenthack** organisation on GitHub][kenthack-github] that could hold all the repositories and all the code, and all I will need to do is create teams and repos and add people to them (so they can push their code to it).
 
+<!--
+What if people don't have GitHub? They'll have to get it? (They are free accounts..?) No point in having our own SVN and Trac repo, because that will mean EVERYBODY needs to sign up :/
+-->
+
 **Why?** To remind people that they don't have to finish an entire project by the end of the event. They should have fun, build a prototype, and not worry about security (yet!). The code should be released online, and if they want to take it further then they should be adding in all the security, extra layers, new features, etc.
 
 It's also a good way to put items on your CV. Public items on the web demonstrates work and shows confidence in it. 
@@ -62,7 +69,13 @@ It's also a good way to put items on your CV. Public items on the web demonstrat
 Employers (especially employers for startups and other small businesses) love seeing code examples on the web. Imagine what they think when they see something like this in a CV:
 
 > I attended **Kenthack**, a hackathon based at my university, where I made FindMe, a people tracking app for Androids. Published to GitHub after the event.
-> http://github.com/kenthack/FineMe
+> http://github.com/kenthack/2012-FindMe
+
+Repository names should follow a "{Year}-{Name}" structure, and we add people's GitHub accounts to teams on the Kenthack page, and then link teams to each repository so they can push and pull code `:)`.
+
+<!--
+Will need to create an admin / helper team, and add that team to all repos so helpers can push and pull code to help people :)
+-->
 
 Obviously this won't be enforced. If people don't want their code public then that is their decision. But it should definitely be encouraged. And made as simple to do!
 
@@ -95,6 +108,7 @@ GitHub, based on Git, also offers version control, which make coding in teams re
   * Pitches
   * Voting for pitches.
   * Register the new teams.
+    * Create GitHub repos for each team and link all the members to the GitHub repo.
 * Hacking.
   * With talks throughout the night.
 * Presentations
@@ -133,6 +147,7 @@ James
 [email-becca]: mailto:becca@kenthack.com
 [email-hello]: mailto:hello@kenthack.com
 [email-james]: mailto:james@kenthack.com
+[email-matt]:  mailto:matt@kenthack.com
 [facebook]: https://www.facebook.com/kenthackathon
 [github]: https://github.com/kenthack
 [twitter]: https://twitter.com/kenthack
