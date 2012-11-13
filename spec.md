@@ -122,6 +122,8 @@ GitHub, based on Git, also offers version control, which make coding in teams re
 
 ### Who are we?
 
+#### Organisers
+
 * James Dryden
   * Stage 2 Computer Science Student at the University of Kent
   * [james@kenthack.com][email-james]
@@ -132,6 +134,11 @@ GitHub, based on Git, also offers version control, which make coding in teams re
 * Matthew House
   * Stage 2 Computer Science Student at the University of Kent.
   * [matt@kenthack.com][email-matt]
+
+#### And helping at the event
+
+* Chris Ewbank
+* Rufus Honour
 
 ### Who is this aimed at?
 
