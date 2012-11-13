@@ -1,10 +1,25 @@
 # #Kenthack
 
+This is a first draft of a spec for a hackathon at the University of Kent. If you have any questions or want to get in touch, please contact [James](#contact).
+
+## Who
+
+* James
+* Rebecca
+
+## What
+
 A hackathon for students (*& teens*) around Canterbury.
+
+> **Hackathon:** A hackathon is an event where designers, developers and entrepreneurs get together to form new ideas and create new projects and prototypes over a short period of time.
+> 
+> [en.wikipedia.org/wiki/Hackathon](http://en.wikipedia.org/wiki/Hackathon)
 
 Hosted by the University of Kent.
 
-A weekend of hacking and putting stuff together.
+A two-day event of hacking and building prototypes.
+
+### Format
 
 * Pitch
   * People pitch their ideas and see if other people want to join their team.
@@ -31,9 +46,26 @@ Would like to have talks throughout the event on different areas. I.e:
 
 Could be open to teens & students outside of UKC, but that makes getting resources harder (people outside UKC don't have access to eduroam)
 
-## What I need
+### Open source
 
-* **Space**
+I am playing with the idea that we should encourage all projects to be open source, or at least the code produced during the event should be released on GitHub. I have setup a [**#Kenthack** organisation on GitHub][kenthack-github] that could hold all the repositories and all the code, and all I will need to do is create teams and repos and add people to them (so they can push their code to it).
+
+**Why?** To remind people that they don't have to finish an entire project by the end of the event. They should have fun, build a prototype, and not worry about security (yet!). The code should be released online, and if they want to take it further then they should be adding in all the security, extra layers, new features, etc.
+
+It's also a good way to put items on your CV. Public items on the web demonstrates work and shows confidence in it. 
+
+Employers (especially employers for startups and other small businesses) love seeing code examples on the web. Imagine what they think when they see something like this in a CV:
+
+> I attended **Kenthack**, a hackathon based at my university, where I made FindMe, a people tracking app for Androids. Published to GitHub after the event.
+> http://github.com/kenthack/FineMe
+
+Obviously this won't be enforced. If people don't want their code public then that is their decision. But it should definitely be encouraged. And made as simple to do!
+
+GitHub, based on Git, also offers version control, which make coding in teams really simple `:)` We can also offer help to those new / having difficulties with Git & GitHub, since the helpers I have in mind are fairly confident and proficient with Git.
+
+### What I need
+
+* Space
   * A lecture theatre for presentations, and some seminar rooms / terminals for hacking?
   * Potential locations:
     * Rutherford Dining Hall?
@@ -45,12 +77,11 @@ Could be open to teens & students outside of UKC, but that makes getting resourc
   * Investors / VCs?
   * Computing School?
   * Kent Business School?
-* **When?**
-  * Project Week in Spring 2013?
-    * What's happening then?
-  * After exams?
+* Helpers
+  * Although I have a couple of people in mind, it would be nice to have some volunteers to help with running the event!
+    * Could contact *KentUnion* to ask about *E&V* and getting their involvement?
 
-## Example Schedule
+### Example Schedule
 
 * Doors open
   * People setup & register their teams.
@@ -68,3 +99,26 @@ Could be open to teens & students outside of UKC, but that makes getting resourc
     * Questions from judges & audience.
   * Judges talk?
   * Awards & closing talk.
+
+## When
+
+* Project Week in Spring 2013?
+* After exams?
+
+## Why
+
+I've been to four hackathons in my free time whilst being at University. And I have loved them all. So much so that I would like to host one at Uni to give other students who haven't been to a hackathon a taste of what they're about.
+
+Hackathons are beneficial to students because they encourage students to be creative, and not program just for assessments. A lot of coursework involves programming to solve a problem, or a real-world problem. Which is great. But that restricts a lot of creativity. Some of the best projects, apps, programs, websites, etc. come from people thinking "*If only there was an app that did that...*".
+
+Hackathons are the perfect time for developers, designers & entrepreneurs to simply be creative. And at the University, we have a wide range of developers in *Computer Science* courses, a wide range of designers in *Graphic Design & Media* courses and a wide range of entrepreneurs in *Business* courses. So it's about time we get everyone together and come up with the "next big thing"!
+
+Of course, teams may not come up with the next big thing. They could create a little one-off project that gets some laughs and entertains us! And that's even cooler! :)
+
+## [Getting in touch](id:contact)
+
+If you have any queries or want to get involved with **#Kenthack** you can get in touch with James by [email](mailto:james@jdrydn.com?subject=Kenthack), [facebook](//facebook.com/jdryden) or [twitter](//twitter.com/jdrydn). And please do get in touch! I want this hackathon to be absolutely amazing, and I can't do it alone!
+
+James
+
+[kenthack-github]: https://github.com/kenthack
