@@ -133,6 +133,6 @@ James
 [email-becca]: mailto:becca@kenthack.com
 [email-hello]: mailto:hello@kenthack.com
 [email-james]: mailto:james@kenthack.com
-[facebook]: https://www.facebook.com/pages/KentHack/475939515773888
+[facebook]: https://www.facebook.com/kenthackathon
 [github]: https://github.com/kenthack
 [twitter]: https://twitter.com/kenthack
