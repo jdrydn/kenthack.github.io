@@ -55,7 +55,7 @@ Could be open to teens & students outside of UKC, but that makes getting resourc
 
 ### Open source
 
-I am playing with the idea that we should encourage all projects to be open source, or at least the code produced during the event should be released on GitHub. I have setup a [**#Kenthack** organisation on GitHub][kenthack-github] that could hold all the repositories and all the code, and all I will need to do is create teams and repos and add people to them (so they can push their code to it).
+I am playing with the idea that we should encourage all projects to be open source, or at least the code produced during the event should be released on GitHub. I have setup a [**#Kenthack** organisation on GitHub][github] that could hold all the repositories and all the code, and all I will need to do is create teams and repos and add people to them (so they can push their code to it).
 
 <!--
 What if people don't have GitHub? They'll have to get it? (They are free accounts..?) No point in having our own SVN and Trac repo, because that will mean EVERYBODY needs to sign up :/
