@@ -1,11 +1,16 @@
 # #Kenthack
 
-This is a first draft of a spec for a hackathon at the University of Kent. If you have any questions or want to get in touch, please contact [James](#contact).
+This is an initial draft of a spec for a hackathon at the University of Kent. If you have any questions or want to get in touch, please contact [James](#contact).
 
 ## Who
 
-* James
-* Rebecca
+* James Dryden
+  * Stage 2 Computer Science Student at the University of Kent
+  * [james@kenthack.com][email-james]
+* Rebecca Arnold
+  * School Rep for the School of Computing
+  * Stage 2 Computer Science Student at the University of Kent.
+  * [becca@kenthack.com][email-becca]
 
 ## What
 
@@ -117,8 +122,17 @@ Of course, teams may not come up with the next big thing. They could create a li
 
 ## [Getting in touch](id:contact)
 
-If you have any queries or want to get involved with **#Kenthack** you can get in touch with James by [email](mailto:james@jdrydn.com?subject=Kenthack), [facebook](//facebook.com/jdryden) or [twitter](//twitter.com/jdrydn). And please do get in touch! I want this hackathon to be absolutely amazing, and I can't do it alone!
+If you have any queries or want to get involved with **#Kenthack** you can get in touch with the team by [emailing hello@kenthack.com][email-hello], [like us on facebook][facebook] or [follow us on twitter][twitter]. Or if you'd prefer you can [email James directly][email-james].
+
+And please do get in touch! I want this hackathon to be absolutely amazing, and I can't do it alone!
+
+Kind regards,
 
 James
 
-[kenthack-github]: https://github.com/kenthack
+[email-becca]: mailto:becca@kenthack.com
+[email-hello]: mailto:hello@kenthack.com
+[email-james]: mailto:james@kenthack.com
+[facebook]: https://www.facebook.com/pages/KentHack/475939515773888
+[github]: https://github.com/kenthack
+[twitter]: https://twitter.com/kenthack
