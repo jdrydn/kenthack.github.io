@@ -1,4 +1,4 @@
-# #Kenthack
+# #**kenthack**
 
 This is an initial draft of a spec for a hackathon at the University of Kent. If you have any questions or want to get in touch, please contact [James](#contact).
 
@@ -55,7 +55,7 @@ Could be open to teens & students outside of UKC, but that makes getting resourc
 
 ### Open source
 
-I am playing with the idea that we should encourage all projects to be open source, or at least the code produced during the event should be released on GitHub. I have setup a [**#Kenthack** organisation on GitHub][github] that could hold all the repositories and all the code, and all I will need to do is create teams and repos and add people to them (so they can push their code to it).
+I am playing with the idea that we should encourage all projects to be open source, or at least the code produced during the event should be released on GitHub. I have setup a [**#kenthack** organisation on GitHub][github] that could hold all the repositories and all the code, and all I will need to do is create teams and repos and add people to them (so they can push their code to it).
 
 <!--
 What if people don't have GitHub? They'll have to get it? (They are free accounts..?) No point in having our own SVN and Trac repo, because that will mean EVERYBODY needs to sign up :/
@@ -67,10 +67,10 @@ It's also a good way to put items on your CV. Public items on the web demonstrat
 
 Employers (especially employers for startups and other small businesses) love seeing code examples on the web. Imagine what they think when they see something like this in a CV:
 
-> I attended **Kenthack**, a hackathon based at my university, where I made FindMe, a people tracking app for Androids. Published to GitHub after the event.
+> I attended **kenthack**, a hackathon based at my university, where I made FindMe, a people tracking app for Androids. Published to GitHub after the event.
 > http://github.com/kenthack/2012-FindMe
 
-Repository names should follow a "{Year}-{Name}" structure (`kenthack/2012-myamazingproject`), and we add people's GitHub accounts to teams on the Kenthack page, and then link teams to each repository so they can push and pull code `:)`.
+Repository names should follow a "{Year}-{Name}" structure (`kenthack/2012-myamazingproject`), and we add people's GitHub accounts to teams on the **kenthack** page, and then link teams to each repository so they can push and pull code `:)`.
 
 <!--
 Will need to create an admin / helper team, and add that team to all repos so helpers can push and pull code to help people :)
@@ -160,7 +160,7 @@ Of course, teams may not come up with the next big thing. They could create a li
 
 ## [Getting in touch](id:contact)
 
-If you have any queries or want to get involved with **#Kenthack** you can get in touch with the team by [emailing hello@kenthack.com][email-hello], [like us on facebook][facebook] or [follow us on twitter][twitter]. Or if you'd prefer you can [email James directly][email-james].
+If you have any queries or want to get involved with **#kenthack** you can get in touch with the team by [emailing hello@kenthack.com][email-hello], [like us on facebook][facebook] or [follow us on twitter][twitter]. Or if you'd prefer you can [email James directly][email-james].
 
 And please do get in touch! I want this hackathon to be absolutely amazing, and I can't do it alone!
 
