@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 # #**kenthack**
 
 This is an initial draft of a spec for a hackathon at the University of Kent. If you have any questions or want to get in touch, please contact [James](#contact).
