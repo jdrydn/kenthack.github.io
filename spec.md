@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Specification
+
 ---
 
 # #**kenthack**
@@ -84,6 +85,8 @@ Will need to create an admin / helper team, and add that team to all repos so he
 Obviously this won't be enforced. If people don't want their code public then that is their decision. But it should definitely be encouraged. And made as simple to do!
 
 GitHub, based on Git, also offers version control, which make coding in teams really simple `:)` We can also offer help to those new / having difficulties with Git & GitHub, since the helpers I have in mind are fairly confident and proficient with Git.
+
+I've setup an example repo - what I imagine a repo would look like after a hackathon - for you to see. The repo is at [github.com/kenthack/2012-example](//github.com/kenthack/2012-example) and the site for it is at [kenthack.com/2012-example](//kenthack.com/2012-example) (*The site itself is a [simple Github pages site](//pages.github.com), on the gh-pages branch of the Github repo. Because it's under the **kenthack** repo on Github, the gh-pages site gets put under the **kenthack.com** domain!*).
 
 ### What I need
 
