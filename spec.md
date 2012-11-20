@@ -4,9 +4,9 @@ title: Specification
 
 ---
 
-# #**kenthack**
+# #kenthack
 
-This is an initial draft of a spec for a hackathon at the University of Kent. If you have any questions or want to get in touch, please contact [James](#contact).
+This is an initial draft of a spec for a hackathon at the University of Kent. If you have any questions or want to get in touch, please get in touch (*see the bottom of this page for details*)!
 
 ## When
 
@@ -92,11 +92,15 @@ I've setup an example repo - what I imagine a repo would look like after a hacka
 
 * Space
   * A lecture theatre for presentations, and some seminar rooms / terminals for hacking?
+  * Desk space, power extension leads, etc.
+  * Networking (although isn't required if it's only uni students attending since they can connect to **eduroam**).
   * Potential locations:
     * Rutherford Dining Hall?
     * Woolf College?
     * Music room by Gulbenkian?
+    * Darwin - The Missing Link
 * Food & drink?
+  * Considering sponsors for food?
 * Judges?
   * For the presentations?
   * Investors / VCs?
@@ -166,7 +170,7 @@ Hackathons are the perfect time for developers, designers & entrepreneurs to sim
 
 Of course, teams may not come up with the next big thing. They could create a little one-off project that gets some laughs and entertains us! And that's even cooler! :)
 
-## [Getting in touch](id:contact)
+## Getting in touch
 
 If you have any queries or want to get involved with **#kenthack** you can get in touch with the team by [emailing hello@kenthack.com][email-hello], [like us on facebook][facebook] or [follow us on twitter][twitter]. Or if you'd prefer you can [email James directly][email-james].
 
