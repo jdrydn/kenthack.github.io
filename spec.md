@@ -108,7 +108,7 @@ I've setup an example repo - what I imagine a repo would look like after a hacka
   * Kent Business School?
 * Helpers
   * Although I have a couple of people in mind, it would be nice to have some volunteers to help with running the event!
-    * (Could contact *KentUnion* to ask about *E&V* support and getting their involvement?)
+  * (Could contact *KentUnion* to ask about *E&V* support and getting their involvement?)
 
 ### Example Schedule
 
