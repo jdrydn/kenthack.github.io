@@ -8,12 +8,7 @@ title: Specification
 
 This is an initial draft of a spec for a hackathon at the University of Kent. If you have any questions or want to get in touch, please get in touch (*see the bottom of this page for details*)!
 
-## When
-
-* Project Week in Spring 2013?
-* After exams?
-
-## What
+## What is this?
 
 A hackathon for students (*& teens*) around Canterbury.
 
@@ -27,19 +22,22 @@ A two-day event of hacking and building prototypes.
 
 Usually with prizes at the end, in recognition of awesome work and excellent teams!
 
-### Format
+## Why should we do this?
 
-* Pitch
-  * People pitch their ideas and see if other people want to join their team.
-  * Audience votes for ideas that they like.
-  * We narrow it down so ideas have at least a developer.
-  *	OR
-  *	People can work on their own stuff, in pre-formed teams.
-* Hack
-  * Teams spend the day, a night, and a day hacking away at their projects.
-  * e.g. Tuesday, Tuesday night, & Wednesday.
-* Present
-  * At the end of the hacking, the teams need to present their projects, what it does, why it does it, and how they could expand.
+I've been to four hackathons in my free time whilst being at University. And I have loved them all. So much so that I would like to host one at Uni to give other students who haven't been to a hackathon a taste of what they're about.
+
+Hackathons are beneficial to students because they encourage students to be creative, and not program just for assessments. A lot of coursework involves programming to solve a problem, or a real-world problem. Which is great. But that restricts a lot of creativity. Some of the best projects, apps, programs, websites, etc. come from people thinking "*If only there was an app that did that...*".
+
+Hackathons are the perfect time for developers, designers & entrepreneurs to simply be creative. And at the University, we have a wide range of developers in *Computer Science* courses, a wide range of designers in *Graphic Design & Media* courses and a wide range of entrepreneurs in *Business* courses. So it's about time we get everyone together and come up with the "next big thing"!
+
+Of course, teams may not come up with the next big thing. They could create a little one-off project that gets some laughs and entertains us! And that's even cooler! :)
+
+## When would we do this?
+
+* Project Week in Spring 2013?
+* After exams?
+
+## Ideas
 
 Come along as an individual or a team, with or without an idea.
 
@@ -59,7 +57,7 @@ Would like to have talks throughout the event on different areas. I.e:
 
 Could be open to teens & students outside of UKC, but that makes getting resources harder (people outside UKC don't have access to eduroam)
 
-### Open source
+## Open source
 
 I am playing with the idea that we should encourage all projects to be open source, or at least the code produced during the event should be released on GitHub. I have setup a [**#kenthack** organisation on GitHub][github] that could hold all the repositories and all the code, and all I will need to do is create teams and repos and add people to them (so they can push their code to it).
 
@@ -88,7 +86,41 @@ GitHub, based on Git, also offers version control, which make coding in teams re
 
 I've setup an example repo - what I imagine a repo would look like after a hackathon - for you to see. The repo is at [github.com/kenthack/2012-example](//github.com/kenthack/2012-example) and the site for it is at [kenthack.com/2012-example](//kenthack.com/2012-example) (*The site itself is a [simple Github pages site](//pages.github.com), on the gh-pages branch of the Github repo. Because it's under the **kenthack** repo on Github, the gh-pages site gets put under the **kenthack.com** domain!*).
 
-### What I need
+## Format of the event
+
+* Pitch
+  * People pitch their ideas and see if other people want to join their team.
+  * Audience votes for ideas that they like.
+  * We narrow it down so ideas have at least a developer.
+  *	OR
+  *	People can work on their own stuff, in pre-formed teams.
+* Hack
+  * Teams spend the day, a night, and a day hacking away at their projects.
+  * e.g. Tuesday, Tuesday night, & Wednesday.
+* Present
+  * At the end of the hacking, the teams need to present their projects, what it does, why it does it, and how they could expand.
+  
+### Example Schedule
+
+* Doors open
+  * People setup & register their teams.
+* Opening talk
+  * And quick introductions to other talks that will take place during the hacking.
+  * Pitches
+  * Voting for pitches.
+  * Register the new teams.
+    * Create GitHub repos for each team and link all the members to the GitHub repo.
+* Hacking.
+  * With talks throughout the night.
+* Presentations
+  * Introduction to teams.
+  * Each team:
+    * Has five minutes to demo their project.
+    * Questions from judges & audience.
+  * Judges talk?
+  * Prizes & closing talk.
+
+## What I need
 
 * Space
   * A lecture theatre for presentations, and some seminar rooms / terminals for hacking?
@@ -110,31 +142,9 @@ I've setup an example repo - what I imagine a repo would look like after a hacka
   * Although I have a couple of people in mind, it would be nice to have some volunteers to help with running the event!
   * (Could contact *KentUnion* to ask about *E&V* support and getting their involvement?)
 
-### Example Schedule
+## Who are we?
 
-* Doors open
-  * People setup & register their teams.
-* Opening talk
-  * And quick introductions to other talks that will take place during the hacking.
-  * Pitches
-  * Voting for pitches.
-  * Register the new teams.
-    * Create GitHub repos for each team and link all the members to the GitHub repo.
-* Hacking.
-  * With talks throughout the night.
-* Presentations
-  * Introduction to teams.
-  * Each team:
-    * Has five minutes to demo their project.
-    * Questions from judges & audience.
-  * Judges talk?
-  * Prizes & closing talk.
-
-## Who
-
-### Who are we?
-
-#### Organisers
+### Organisers
 
 * James Dryden
   * Stage 2 Computer Science Student at the University of Kent
@@ -147,12 +157,12 @@ I've setup an example repo - what I imagine a repo would look like after a hacka
   * Stage 2 Computer Science Student at the University of Kent.
   * [matt@kenthack.com][email-matt]
 
-#### And helping at the event
+### And helping at the event
 
 * Chris Ewbank
 * Rufus Honour
 
-### Who is this aimed at?
+## Who is this aimed at?
 
 This is aimed at students in Canterbury. Specifically, University of Kent students, since we don't have internet access for non-students, and I don't know of any way round that (excluding Internet Sharing options, which I don't want to do since it's nasty `:/`).
 
@@ -160,15 +170,7 @@ Students of all ages. From first-years to post-graduates. This may appear to pre
 
 Obviously, if we have prizes and awards and stuff, there would be one specific for each year group. "*Best Stage 1 project*", "*Best Stage 2 project*", "*Best Stage 3 project*", "*Best Postgraduate project*", "*Best Undergraduate project*", etc etc.
 
-## Why
-
-I've been to four hackathons in my free time whilst being at University. And I have loved them all. So much so that I would like to host one at Uni to give other students who haven't been to a hackathon a taste of what they're about.
-
-Hackathons are beneficial to students because they encourage students to be creative, and not program just for assessments. A lot of coursework involves programming to solve a problem, or a real-world problem. Which is great. But that restricts a lot of creativity. Some of the best projects, apps, programs, websites, etc. come from people thinking "*If only there was an app that did that...*".
-
-Hackathons are the perfect time for developers, designers & entrepreneurs to simply be creative. And at the University, we have a wide range of developers in *Computer Science* courses, a wide range of designers in *Graphic Design & Media* courses and a wide range of entrepreneurs in *Business* courses. So it's about time we get everyone together and come up with the "next big thing"!
-
-Of course, teams may not come up with the next big thing. They could create a little one-off project that gets some laughs and entertains us! And that's even cooler! :)
+&nbsp;
 
 ## Getting in touch
 
