@@ -1,3 +1,8 @@
+---
+layout: default
+title: Open Source
+
+---
 # #kenthack & Open Source
 
 I am playing with the idea that we should encourage all projects to be open source, or at least the code produced during the event should be released on Github. I have setup a [**#kenthack** organisation on Github][github] that could hold all the repositories and all the code, and all I will need to do is create teams and repos and add people to them (so they can push their code to it).
