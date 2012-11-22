@@ -53,8 +53,6 @@ Would like to have talks throughout the event on different areas. I.e:
   * GoSquared? *Chris Leydon?*
   * Twilio? *Stevie Graham?*
   * Pusher? *Phil Leggat?*
-  * Redbull?
-  * Dominoes?
 
 Could be open to teens & students outside of UKC, but that makes getting resources harder (people outside UKC don't have access to eduroam)
 
@@ -71,19 +69,22 @@ Could be open to teens & students outside of UKC, but that makes getting resourc
   * e.g. Tuesday, Tuesday night, & Wednesday.
 * Present
   * At the end of the hacking, the teams need to present their projects, what it does, why it does it, and how they could expand.
+  * With judging?
+  * Definitely with questions.
   
 ### Example Schedule
 
 * Doors open
   * People setup & register their teams.
+  * 10am - 11am?
 * Opening talk
   * And quick introductions to other talks that will take place during the hacking.
   * Pitches
   * Voting for pitches.
   * Register the new teams.
-    * Create GitHub repos for each team and link all the members to the GitHub repo.
-* Hacking.
+* Hacking
   * With talks throughout the night.
+  * With food and drink.
 * Presentations
   * Introduction to teams.
   * Each team:
@@ -105,6 +106,8 @@ Could be open to teens & students outside of UKC, but that makes getting resourc
     * Darwin - The Missing Link
 * Food & drink?
   * Considering sponsors for food?
+  * Redbull?
+  * Dominoes?
 * Judges?
   * For the presentations?
   * Investors / VCs?
