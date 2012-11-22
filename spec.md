@@ -50,6 +50,7 @@ Would like to have talks throughout the event on different areas. I.e:
 * Microsoft representation talking about Windows development? *Blake?*
 * I'll happily chat about `entities` `:D`
 * Would love to get some real APIs and sponsors in:
+  * GoSquared? *Chris Leydon?*
   * Twilio? *Stevie Graham?*
   * Pusher? *Phil Leggat?*
   * Redbull?
