@@ -37,6 +37,14 @@ Of course, teams may not come up with the next big thing. They could create a li
 * Project Week in Spring 2013?
 * After exams?
 
+## Who is this aimed at?
+
+This is aimed at students in Canterbury. Specifically, University of Kent students, since we don't have internet access for non-students, and I don't know of any way round that (excluding Internet Sharing options, which I don't want to do since it's nasty `:/`).
+
+Students of all ages. From first-years to post-graduates. This may appear to present an unfair advantage - pitching a group of first years against a group of graduates. Whilst at first this appears to be true, (a) in the real world age doesn't matter, so I don't see why it should apply here, and (b) I've attended a hackathon where a group of (then) first-years took on people well into their twenties, and came out successful. So age really doesn't matter. Plus, you never know, they could work together and produce something even more awesome `^_^`.
+
+Obviously, if we have prizes and awards and stuff, there would be one specific for each year group. "*Best Stage 1 project*", "*Best Stage 2 project*", "*Best Stage 3 project*", "*Best Postgraduate project*", "*Best Undergraduate project*", etc etc.
+
 ## Ideas
 
 Come along as an individual or a team, with or without an idea.
@@ -136,14 +144,6 @@ Could be open to teens & students outside of UKC, but that makes getting resourc
 
 * Chris Ewbank
 * Rufus Honour
-
-## Who is this aimed at?
-
-This is aimed at students in Canterbury. Specifically, University of Kent students, since we don't have internet access for non-students, and I don't know of any way round that (excluding Internet Sharing options, which I don't want to do since it's nasty `:/`).
-
-Students of all ages. From first-years to post-graduates. This may appear to present an unfair advantage - pitching a group of first years against a group of graduates. Whilst at first this appears to be true, (a) in the real world age doesn't matter, so I don't see why it should apply here, and (b) I've attended a hackathon where a group of (then) first-years took on people well into their twenties, and came out successful. So age really doesn't matter. Plus, you never know, they could work together and produce something even more awesome `^_^`.
-
-Obviously, if we have prizes and awards and stuff, there would be one specific for each year group. "*Best Stage 1 project*", "*Best Stage 2 project*", "*Best Stage 3 project*", "*Best Postgraduate project*", "*Best Undergraduate project*", etc etc.
 
 &nbsp;
 
