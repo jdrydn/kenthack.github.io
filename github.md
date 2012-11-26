@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: document
 title: Open Source
 
 ---

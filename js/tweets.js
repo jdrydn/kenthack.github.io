@@ -61,3 +61,10 @@
 		$('div.tweet-hashtag div.loading').hide(function() { $('div.tweet-hashtag div.active').show(); });
 	}
 	
+	$(document).ready(function() {
+		
+		$('body').append('<script src="https://api.twitter.com/1/statuses/user_timeline/kenthack.json?callback=twittercallback_us&count=1" type="text/javascript"></script>')
+				.append('<script src="http://search.twitter.com/search.json?callback=twittercallback_them&count=1&q=%23kenthack&include_user=true" type="text/javascript"></script>');
+		
+	});
+	
