@@ -3,7 +3,7 @@
 	@import url('bootstrap-responsive.min.css');
 	
 	body {
-		background: #0062E4 url('../img/bg.png') repeat-x top left;
+		background: #fff url('../img/bg.png') repeat-x top left;
 	}
 	
 	h1, h2, h3, h4, h5, h6 {
@@ -22,14 +22,14 @@
 		}
 		
 		h3 {
-			font-size: 26px;
-			line-height: 30px;
-			margin: 30px 0 10px 0;
+			font-size: 22px;
+			line-height: 26px;
 		}
 		
 		h4 {
-			font-size: 22px;
-			line-height: 26px;
+			font-size: 20px;
+			font-weight: normal;
+			line-height: 24px;
 			margin: 0 0 5px 0;
 		}
 		
@@ -42,18 +42,99 @@
 		}
 	
 	div.content {
-		color: #fff;
-		margin-top: 120px;
+		margin-top: 90px;
 	}
 	
 		header {
 			
 		}
+			
+			header h1 {
+				margin-bottom: 25px;
+			}
+			
+			header h2 {
+				margin-bottom: 25px;
+			}
+		
+		section.tweets {
+			
+		}
+			
+			div.tweet {
+				background: #fff;
+				border: #DDD 1px solid !important;
+				border-top-color: #EEE !important;
+				border-bottom-color: #BBB !important;
+				-webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.15) !important;
+				-moz-box-shadow: 0 1px 3px rgba(0,0,0,0.15) !important;
+				box-shadow: 0 1px 3px rgba(0, 0, 0, 0.15) !important;
+				color: #000;
+				margin: 0 0 10px 0;
+				padding: 10px;
+			}
+				
+				div.tweet div.loading {
+				}
+					
+					div.tweet div.loading p {
+						margin: 0;
+					}
+				
+				div.tweet div.active {
+					display: none;
+				}
+				
+				div.tweet div.author {
+					margin: 0 0 10px 0;
+					min-height: 50px;
+				}
+					
+					div.tweet div.author img.avatar {
+						-webkit-border-radius: 5px;
+						-moz-border-radius: 5px;
+						border-radius: 5px;
+					}
+					
+					div.tweet div.author h3 {
+						font-size: 26px;
+						line-height: 30px;
+						margin: 0;
+					}
 		
 		section.content {
 			font-size: 16px;
+			margin-top: 63px;
 			line-height: 20px;
 		}
+			
+			section.content h3 {
+				margin: 40px 0 10px 0;
+			}
+			
+			section.content div.who p {
+				font-size: 14px;
+				line-height: 18px;
+			}
+				
+				section.content div.who dl dt {
+					font-size: 14px;
+					font-weight: normal;
+					line-height: 18px;
+				}
+				
+				section.content div.who dl dd {
+					font-size: 14px;
+				}
+			
+			div.content div.countdown {
+			}
+				
+				div.content div.countdown .cntSeparator {
+					font-size: 54px;
+					margin: 25px 7px;
+					color: #000;
+				}
 	
 	footer {
 		margin: 30px 0 40px 0;
