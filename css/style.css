@@ -136,6 +136,10 @@
 					margin: 25px 7px;
 					color: #000;
 				}
+			
+			section.content section.thank-you {
+				margin-bottom: 60px;
+			}
 	
 	footer {
 		margin: 30px 0 40px 0;
