@@ -66,7 +66,7 @@
 		(function(tweets) {
 			for (var i = 0; i < tweets.length; i++) {
 				var tweet = tweets[i];
-				console.log(tweet);
+				//console.log(tweet);
 				var html = '<div class="tweet">\
 								<div class="row-fluid author">\
 									<div class="span2">\
@@ -90,6 +90,7 @@
 									</div>\
 								</div>\
 							</div>';
+				$('section.timeline div.stream').append(html);
 			}
 		})(search.results);
 		$('section.timeline div.loading').slideUp(function() { $('section.timeline div.stream').slideDown(); });
