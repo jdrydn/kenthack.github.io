@@ -74,8 +74,8 @@ Could be open to teens & students outside of UKC, but that makes getting resourc
   *	OR
   *	People can work on their own stuff, in pre-formed teams.
 * Hack
-  * Teams spend the day, a night, and a day hacking away at their projects.
-  * e.g. Tuesday, Tuesday night, & Wednesday.
+  * Teams spend most of two consecutive days hacking & building at their projects.
+  * Needs to be two consecutive days.
 * Present
   * At the end of the hacking, the teams need to present their projects, what it does, why it does it, and how they could expand.
   * With judging?
