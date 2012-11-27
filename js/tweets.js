@@ -61,7 +61,7 @@
 		$('div.tweet-hashtag div.loading').hide(function() { $('div.tweet-hashtag div.active').show(); });
 	}
 	
-	function twittercallback_them_timeline(tweets)
+	function twittercallback_them_timeline(search)
 	{
 		(function(tweets) {
 			for (var i = 0; i < tweets.length; i++) {
