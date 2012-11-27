@@ -165,6 +165,10 @@
 					display: none;
 				}
 	
+	div.heading {
+		text-align: center;
+	}
+	
 	footer {
 		margin: 30px 0 40px 0;
 	}

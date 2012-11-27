@@ -1,35 +1,194 @@
-<!doctype html>
-<html>
-	<head>
-		<style type="text/css">
+---
+layout: default
+title: Welcome to kenthack
+---
 			
-			@import url('//code.jdrydn.com/css/bootstrap.min.css');
-			@import url('//code.jdrydn.com/css/bootstrap-responsive.min.css');
+			<section class="heading">
+				<div class="row-fluid">
+					<div class="span12">
+						<h1>We came. We saw. We hacked.</h1>
+					</div>
+				</div>
+			</section>
 			
-			body {
-				background: #216edf;
-			}
+			<div class="row-fluid content">
+				<div class="span4">
+					<header>
+						<h1>kenthack</h1>
+						<h2>A hackathon at the University of Kent.</h2>
+					</header>
+					<section class="tweets">
+						
+						<div class="tweet tweet-official">
+							<div class="loading">
+								<p class="lead"><img src=""/> Loading latest <a href="//twitter.com/kenthack" target="_blank">@kenthack</a> tweet...</p>
+							</div>
+							<div class="active">
+								<div class="row-fluid author">
+									<div class="span2">
+										<img class="avatar" src="//api.twitter.com/1/users/profile_image?screen_name=kenthack"/>
+									</div>
+									<div class="span10">
+										<img class="pull-right" src="img/sprite.tw.32.png"/>
+										<h3></h3>
+										<h6><a href="#" target="_blank"></a></h6>
+									</div>
+								</div>
+								<div class="row-fluid">
+									<div class="span12">
+										<p class="lead"></p>
+										<h6 class="pull-right"><a href="//twitter.com/kenthack" target="_blank">Follow @kenthack on Twitter &raquo;</a></h6>
+									</div>
+								</div>
+							</div>
+						</div>
+						
+						<div class="tweet tweet-hashtag">
+							<div class="loading">
+								<p class="lead"><img src=""/> Loading latest <a href="//twitter.com/search?q=kenthack" target="_blank">#kenthack</a> tweet...</p>
+							</div>
+							<div class="active">
+								<div class="row-fluid author">
+									<div class="span2">
+										<img class="avatar" src="//api.twitter.com/1/users/profile_image?screen_name=kenthack"/>
+									</div>
+									<div class="span10">
+										<img class="pull-right" src="img/sprite.tw.32.png"/>
+										<h3></h3>
+										<h6><a href="#" target="_blank"></a></h6>
+									</div>
+								</div>
+								<div class="row-fluid tweet-body">
+									<div class="span12">
+										<p class="lead"></p>
+										<h6 class="pull-right"><a href="//twitter.com/search?q=kenthack" target="_blank">Read more #kenthack tweets &raquo;</a></h6>
+									</div>
+								</div>
+							</div>
+						</div>
+						
+					</section>
+				</div>
+				<div class="span8">
+					<section class="content">
+						
+						<h2>kenthack is a hackathon hosted by the University of Kent, run for and by current Kent students.</h2>
+						
+						<section class="you well">
+							<h3>Interested?</h3>
+							<p>Leave your email address with us and we'll keep you informed of all upcoming <strong>kenthack</strong> information!</p>
+								<!--
+								<form action="http://kenthack.us6.list-manage.com/subscribe/post?u=848614f50f629fb380bacbaa4&amp;id=f7d6db0c3a" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate form-inline" novalidate>
+									<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
+									<div class="mc-field-group">
+										<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span></label>
+										<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+									</div>
+									<div id="mce-responses" class="clear">
+										<div class="response" id="mce-error-response" style="display:none"></div>
+										<div class="response" id="mce-success-response" style="display:none"></div>
+									</div>
+									<div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+								</form>
+								-->
+							<form action="http://kenthack.us6.list-manage.com/subscribe/post?u=848614f50f629fb380bacbaa4&amp;id=f7d6db0c3a" method="post" class="form-inline" novalidate>
+								<input placeholder="e.g. me@kent.ac.uk" type="email" value=""name="EMAIL" class="input-email"/>
+								<input type="submit" value="Subscribe" name="subscribe" class="btn btn-primary"/>
+							</form>
+							<p>And be sure to <a href="//twitter.com/kenthack" target="_blank">follow us on Twitter</a> &amp; <a href="//facebook.com/kenthackathon" target="_blank">like us on Facebook</a> to stay as up to date with us as possible!</p>
+						</section>
+						
+						<section class="what">
+							<h3>What do you do?</h3>
+							<p>Be creative. Simple as. We get together, and literally spend a day making a project from scratch. Whether it's a one-off joke app for Android, or a full iOS app with a business model and expansion plans, this is the time to get creative!.</p>
+							<p>You come along, and simply be creative.</p>
+							<p>All <code>code</code> produced must be fresh during the event, so please don't bring any existing work to kenthack. Existing startups and projects are okay, as long as the "new stuff" are new features / prototypes, so you're not just working on existing stuff.</p>
+							<p>We may also be having some <strong>talks</strong> from various individuals on various topics throughout the event - watch this space for more details!</p>
+							<p>Hackathons are a great place to network and get your name out there. So we'd <i class="icon-heart"></i> it if you'd come along!</p>
+						</section>
+						
+						<section class="why">
+							<h3>Why is this happening?</h3>
+							<p>Hackathons are beneficial to students because they encourage students to be creative, and not program just for assessments. A lot of coursework involves programming to solve a problem, or a real-world problem. Which is great. But that restricts a lot of creativity. Some of the best projects, apps, programs, websites, etc. come from people thinking "<em>If only there was an app that did that...</em>.</p>
+							<p>Hackathons are also the perfect time for developers, designers & entrepreneurs to simply be creative. And at the University, we have a wide range of developers in <em>Computer Science</em> courses, a wide range of designers in <em>Graphic Design & Media</em> courses and a wide range of entrepreneurs in <em>Business</em> courses. So it’s about time we get everyone together and come up with the "next big thing"!</p>
+							<p>Of course, teams may not come up with the next big thing. They could create a little one-off project that gets some laughs and entertains us! And that’s even cooler! :)</p>
+						</section>
+						
+						<section class="who-can-come">
+							<h3>Who can come?</h3>
+							<p>For our first year, we're open to any student in the University of Kent Canterbury & Medway campuses. Medway students can get to the Canterbury campus via a shuttle bus that travels between the two campuses.</p>
+						</section>
+						
+						<section class="who">
+							<h3>Who's behind this?</h3>
+							<div class="row-fluid">
+								
+								<div class="span4">
+									<div class="row-fluid">
+										<div class="span3">
+											<img src="https://graph.facebook.com/jdryden/picture"/>
+										</div>
+										<div class="span9">
+											<h4>James Dryden</h4>
+											<p>James is a Stage 2 Computer Science student &amp; a web developer.</p>
+											<dl>
+												<dt>Email</dt>
+												<dd><a href="mailto:james@kenthack.com">james@kenthack.com</a></dd>
+												<dt>Twitter</dt>
+												<dd><a href="//twitter.com/jdrydn">@jdrydn</a></dd>
+											</dl>
+										</div>
+									</div>
+								</div>
+								
+								<div class="span4">
+									<div class="row-fluid">
+										<div class="span3">
+											<img src="https://graph.facebook.com/RebeccaG.Arnold/picture"/>
+										</div>
+										<div class="span9">
+											<h4>Rebecca Arnold</h4>
+											<p>Becca is a Stage 2 Computer Science student &amp; the School Rep for the School of Computing.</p>
+											<dl>
+												<dt>Email</dt>
+												<dd><a href="mailto:becca@kenthack.com">becca@kenthack.com</a></dd>
+												<dt>Twitter</dt>
+												<dd><a href="//twitter.com/carbondeclare">@carbondeclare</a></dd>
+											</dl>
+										</div>
+									</div>
+								</div>
+								
+								<div class="span4">
+									<div class="row-fluid">
+										<div class="span3">
+											<img src="https://graph.facebook.com/mattnhouse/picture"/>
+										</div>
+										<div class="span9">
+											<h4>Matt House</h4>
+											<p>Matt is a Stage 2 Computer Science student &amp; an entrepreneur.</p>
+											<dl>
+												<dt>Email</dt>
+												<dd><a href="mailto:matt@kenthack.com">matt@kenthack.com</a></dd>
+												<dt>Twitter</dt>
+												<dd><a href="//twitter.com/matt_house">@matt_house</a></dd>
+											</dl>
+										</div>
+									</div>
+								</div>
+								
+							</div>
+						</section>
+						
+						<section class="when">
+							<h3>When's this happening?</h3>
+							<div class="countdown"></div>
+							<p>This will be happening in the Spring Term Project Week (sometime between 11th March &rarr; 14th March), so be sure to keep some room free for us!</p>
+						</section>
+						
+					</section>
+				</div>
+			</div>
 			
-			div.container {
-				background: #216edf;
-			}
+			{% include footer.html %}
 			
-			header {
-				background: #216edf url('img/bg.png') repeat-x top left;
-				height: 200px;
-			}
-			
-			
-		</style>
-		<title>#kenthack</title>
-	</head>
-	<body>
-		<div class="container">
-			
-			<header>
-				<h1>#Kenthack</h1>
-			</header>
-			
-		</div>
-	</body>
-</html>
