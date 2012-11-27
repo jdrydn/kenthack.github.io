@@ -129,12 +129,24 @@
 				}
 			
 			div.content div.countdown {
+				margin-bottom: 15px;
 			}
 				
 				div.content div.countdown .cntSeparator {
 					font-size: 54px;
 					margin: 25px 7px;
 					color: #000;
+				}
+			
+			section.content section.you {
+				
+			}
+				
+				section.content section.you input.input-email {
+					font-size: 16px;
+					height: 32px;
+					line-height: 22px;
+					width: 300px;
 				}
 			
 			section.content section.thank-you {
