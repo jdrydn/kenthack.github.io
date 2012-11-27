@@ -110,7 +110,7 @@
 					var append = '</div>\
 								</div>';
 				}
-				$('section.timeline div.stream').append(prepend, html, append);
+				$('section.timeline div.stream').append(prepend+html+append);
 			}
 		})(search.results);
 		$('section.timeline div.loading').slideUp(function() { $('section.timeline div.stream').slideDown(); });
