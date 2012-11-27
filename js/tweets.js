@@ -65,28 +65,28 @@
 	{
 		(function(tweets) {
 			console.log(tweets);
-			var tweet = '<div class="tweet tweet-hashtag">
-							<div class="loading">
-								<p class="lead"><img src=""/> Loading latest <a href="//twitter.com/search?q=kenthack" target="_blank">#kenthack</a> tweet...</p>
-							</div>
-							<div class="active">
-								<div class="row-fluid author">
-									<div class="span2">
-										<img class="avatar" src="//api.twitter.com/1/users/profile_image?screen_name=kenthack"/>
-									</div>
-									<div class="span10">
-										<img class="pull-right" src="img/sprite.tw.32.png"/>
-										<h3></h3>
-										<h6><a href="#" target="_blank"></a></h6>
-									</div>
-								</div>
-								<div class="row-fluid tweet-body">
-									<div class="span12">
-										<p class="lead"></p>
-										<h6 class="pull-right"><a href="//twitter.com/search?q=kenthack" target="_blank">Read more #kenthack tweets &raquo;</a></h6>
-									</div>
-								</div>
-							</div>
+			var tweet = '<div class="tweet tweet-hashtag">\
+							<div class="loading">\
+								<p class="lead"><img src=""/> Loading latest <a href="//twitter.com/search?q=kenthack" target="_blank">#kenthack</a> tweet...</p>\
+							</div>\
+							<div class="active">\
+								<div class="row-fluid author">\
+									<div class="span2">\
+										<img class="avatar" src="//api.twitter.com/1/users/profile_image?screen_name=kenthack"/>\
+									</div>\
+									<div class="span10">\
+										<img class="pull-right" src="img/sprite.tw.32.png"/>\
+										<h3></h3>\
+										<h6><a href="#" target="_blank"></a></h6>\
+									</div>\
+								</div>\
+								<div class="row-fluid tweet-body">\
+									<div class="span12">\
+										<p class="lead"></p>\
+										<h6 class="pull-right"><a href="//twitter.com/search?q=kenthack" target="_blank">Read more #kenthack tweets &raquo;</a></h6>\
+									</div>\
+								</div>\
+							</div>\
 						</div>';
 		})(search.results);
 		$('section.timeline div.loading').slideUp(function() { $('section.timeline div.stream').slideDown(); });
