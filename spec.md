@@ -24,7 +24,7 @@ Usually with prizes at the end, in recognition of awesome work and excellent tea
 
 ## Why should we do this?
 
-I've been to four hackathons in my free time whilst being at University. And I have loved them all. So much so that I would like to host one at Uni to give other students who haven't been to a hackathon a taste of what they're about.
+> "I've been to four hackathons in my free time whilst being at University. And I have loved them all. So much so that I would like to host one at Uni to give other students who haven't been to a hackathon a taste of what they're all about." *James*
 
 Hackathons are beneficial to students because they encourage students to be creative, and not program just for assessments. A lot of coursework involves programming to solve a problem, or a real-world problem. Which is great. But that restricts a lot of creativity. Some of the best projects, apps, programs, websites, etc. come from people thinking "*If only there was an app that did that...*".
 
@@ -32,10 +32,11 @@ Hackathons are the perfect time for developers, designers & entrepreneurs to sim
 
 Of course, teams may not come up with the next big thing. They could create a little one-off project that gets some laughs and entertains us! And that's even cooler! :)
 
-## When would we do this?
+## When are we do this?
 
-* Project Week in Spring 2013?
-* After exams?
+### Project Week in Spring 2013.
+
+But not the Friday.
 
 ## Who is this aimed at?
 
@@ -101,7 +102,29 @@ Could be open to teens & students outside of UKC, but that makes getting resourc
   * Judges talk?
   * Prizes & closing talk.
 
-## What I need
+## Who are we?
+
+### Organisers
+
+* James Dryden
+  * Stage 2 Computer Science Student at the University of Kent
+  * [james@kenthack.com][email-james]
+* Rebecca Arnold
+  * School Rep for the School of Computing
+  * Stage 2 Computer Science Student at the University of Kent.
+  * [becca@kenthack.com][email-becca]
+* Matthew House
+  * Stage 2 Computer Science Student at the University of Kent.
+  * [matt@kenthack.com][email-matt]
+
+### And helping at the event
+
+* Chris Ewbank
+* Rufus Honour
+
+&nbsp;
+
+## What we need
 
 * Space
   * A lecture theatre for presentations, and some seminar rooms / terminals for hacking?
@@ -124,28 +147,6 @@ Could be open to teens & students outside of UKC, but that makes getting resourc
 * Helpers
   * Although I have a couple of people in mind, it would be nice to have some volunteers to help with running the event!
   * (Could contact *KentUnion* to ask about *E&V* support and getting their involvement?)
-
-## Who are we?
-
-### Organisers
-
-* James Dryden
-  * Stage 2 Computer Science Student at the University of Kent
-  * [james@kenthack.com][email-james]
-* Rebecca Arnold
-  * School Rep for the School of Computing
-  * Stage 2 Computer Science Student at the University of Kent.
-  * [becca@kenthack.com][email-becca]
-* Matthew House
-  * Stage 2 Computer Science Student at the University of Kent.
-  * [matt@kenthack.com][email-matt]
-
-### And helping at the event
-
-* Chris Ewbank
-* Rufus Honour
-
-&nbsp;
 
 ## Getting in touch
 
