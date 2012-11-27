@@ -61,33 +61,36 @@
 		$('div.tweet-hashtag div.loading').hide(function() { $('div.tweet-hashtag div.active').show(); });
 	}
 	
-	function twittercallback_them_timeline(search)
+	function twittercallback_them_timeline(tweets)
 	{
 		(function(tweets) {
-			console.log(tweets);
-			var tweet = '<div class="tweet tweet-hashtag">\
-							<div class="loading">\
-								<p class="lead"><img src=""/> Loading latest <a href="//twitter.com/search?q=kenthack" target="_blank">#kenthack</a> tweet...</p>\
-							</div>\
-							<div class="active">\
+			for (var i = 0; i < tweets.length; i++) {
+				var tweet = tweets[i];
+				console.log(tweet);
+				var html = '<div class="tweet">\
 								<div class="row-fluid author">\
 									<div class="span2">\
-										<img class="avatar" src="//api.twitter.com/1/users/profile_image?screen_name=kenthack"/>\
+										<img class="avatar" src="'+tweet.profile_image_url+'"/>\
 									</div>\
 									<div class="span10">\
 										<img class="pull-right" src="img/sprite.tw.32.png"/>\
-										<h3></h3>\
-										<h6><a href="#" target="_blank"></a></h6>\
+										<h3>'+tweet.from_user_name + ' <small><a href="//twitter.com/'+tweet.from_user+'" target="_blank">@'+tweet.from_user+'</a></small></h3>\
+										<h6><a href="//twitter.com/'+tweet.from_user+'/status/'+tweet.id_str+'" target="_blank">'+relative_time(tweet.created_at)+'</a></h6>\
 									</div>\
 								</div>\
 								<div class="row-fluid tweet-body">\
 									<div class="span12">\
-										<p class="lead"></p>\
-										<h6 class="pull-right"><a href="//twitter.com/search?q=kenthack" target="_blank">Read more #kenthack tweets &raquo;</a></h6>\
+										<p class="lead">'+tweet.text.replace(/((https?|s?ftp|ssh)\:\/\/[^"\s\<\>]*[^.,;'">\:\s\<\>\)\]\!])/g, function(url) {
+																return '<a href="'+url+'">'+url+'</a>';
+															}).replace(/\B@([_a-z0-9]+)/ig, function(reply) {
+																return  reply.charAt(0)+'<a href="http://twitter.com/'+reply.substring(1)+'" target="_blank">'+reply.substring(1)+'</a>';
+															}).replace(/\B#([_a-z0-9]+)/ig, function(hash) {
+																return  hash.charAt(0)+'<a href="https://twitter.com/search?q=%23'+hash.substring(1)+'" target="_blank">'+hash.substring(1)+'</a>';
+															})+'</p>\
 									</div>\
 								</div>\
-							</div>\
-						</div>';
+							</div>';
+			}
 		})(search.results);
 		$('section.timeline div.loading').slideUp(function() { $('section.timeline div.stream').slideDown(); });
 	}

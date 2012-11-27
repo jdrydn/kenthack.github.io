@@ -156,6 +156,14 @@
 			section.content section.thank-you {
 				margin-bottom: 60px;
 			}
+			
+			section.timeline {
+				
+			}
+				
+				section.timeline div.stream {
+					display: none;
+				}
 	
 	footer {
 		margin: 30px 0 40px 0;
