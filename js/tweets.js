@@ -104,7 +104,5 @@
 			}
 		})(search.results);
 		$('section.timeline div.loading').slideUp(function() { $('section.timeline div.stream').slideDown(); });
-		
-		setTimeout(window.location.reload(),300000);
 	}
 	
