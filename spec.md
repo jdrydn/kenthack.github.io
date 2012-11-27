@@ -4,7 +4,7 @@ title: Specification
 
 ---
 
-# #kenthack
+# kenthack
 
 This is an initial draft of a spec for a hackathon at the University of Kent. If you have any questions or want to get in touch, please see the details at the bottom of this page.
 
@@ -135,6 +135,7 @@ Could be open to teens & students outside of UKC, but that makes getting resourc
     * Woolf College?
     * Music room by Gulbenkian?
     * Darwin - The Missing Link
+    * Depending on numbers, SW101?
 * Food & drink?
   * Considering sponsors for food?
   * Redbull?
@@ -150,7 +151,7 @@ Could be open to teens & students outside of UKC, but that makes getting resourc
 
 ## Getting in touch
 
-If you have any queries or want to get involved with **#kenthack** you can get in touch with the team by [emailing hello@kenthack.com][email-hello], [like us on facebook][facebook] or [follow us on twitter][twitter]. Or if you'd prefer you can [email James directly][email-james].
+If you have any queries or want to get involved with **kenthack** you can get in touch with the team by [emailing hello@kenthack.com][email-hello], [like us on facebook][facebook] or [follow us on twitter][twitter]. Or if you'd prefer you can [email James directly][email-james].
 
 &nbsp;
 
