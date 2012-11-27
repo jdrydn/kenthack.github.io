@@ -69,12 +69,12 @@
 					html = '',
 					prepend = '',
 					tweet = tweets[i];
-				if ((i % 2) == 0) {
-					var prepend = '<div class="row-fluid">\
-										<div class="span6">';
+				if ((i % 2) > 0) {
+					var prepend = '<div class="span6">';
 				}
 				else {
-					var prepend = '<div class="span6">';
+					var prepend = '<div class="row-fluid">\
+										<div class="span6">';
 				}
 				//console.log(tweet);
 				var html = '<div class="tweet">\
@@ -100,15 +100,15 @@
 									</div>\
 								</div>\
 							</div>';
-				if ((i % 2) == 0) {
+				if ((i % 2) > 0) {
+					var append = '</div>\
+								</div>';
+				}
+				else {
 					var append = '</div>';
 					if (i == tweets.length - 1) {
 						append += '</div>';
 					}
-				}
-				else {
-					var append = '</div>\
-								</div>';
 				}
 				$('section.timeline div.stream').append(prepend+html+append);
 			}
