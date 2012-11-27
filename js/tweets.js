@@ -106,9 +106,7 @@
 				}
 				else {
 					var append = '</div>';
-					if (i == tweets.length - 1) {
-						append += '</div>';
-					}
+					if (i == (tweets.length - 1)) append += '</div>';
 				}
 				$('section.timeline div.stream').append(prepend+html+append);
 			}
