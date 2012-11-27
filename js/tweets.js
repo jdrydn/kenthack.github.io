@@ -68,9 +68,9 @@
 				var html = '',
 					tweet = tweets[i];
 				//console.log(tweet);
-				var html = '<div class="row-fluid">
-								<div class="span2"></div>
-								<div class="span6">
+				var html = '<div class="row-fluid">\
+								<div class="span2"></div>\
+								<div class="span6">\
 									<div class="tweet">\
 										<div class="row-fluid author">\
 											<div class="span2">\
@@ -93,8 +93,8 @@
 																	})+'</p>\
 											</div>\
 										</div>\
-									</div>
-								</div>
+									</div>\
+								</div>\
 							</div>';
 				$('section.timeline div.stream').append(html);
 			}
