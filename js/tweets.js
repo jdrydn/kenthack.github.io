@@ -65,7 +65,17 @@
 	{
 		(function(tweets) {
 			for (var i = 0; i < tweets.length; i++) {
-				var tweet = tweets[i];
+				var append = '',
+					html = '',
+					prepend = '',
+					tweet = tweets[i];
+				if ((i % 2) == 0) {
+					var prepend = '<div class="row-fluid">\
+										<div class="span6">';
+				}
+				else {
+					var prepend = '<div class="span6">';
+				}
 				//console.log(tweet);
 				var html = '<div class="tweet">\
 								<div class="row-fluid author">\
@@ -90,7 +100,17 @@
 									</div>\
 								</div>\
 							</div>';
-				$('section.timeline div.stream').append(html);
+				if ((i % 2) == 0) {
+					var append = '</div>';
+					if (i == tweets.length - 1) {
+						append += '</div>';
+					}
+				}
+				else {
+					var append = '</div>\
+								</div>';
+				}
+				$('section.timeline div.stream').append(prepend, html, append);
 			}
 		})(search.results);
 		$('section.timeline div.loading').slideUp(function() { $('section.timeline div.stream').slideDown(); });
