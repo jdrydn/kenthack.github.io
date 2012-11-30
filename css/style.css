@@ -113,10 +113,15 @@
 				margin: 40px 0 10px 0;
 			}
 			
-			section.content section.who p {
-				font-size: 14px;
-				line-height: 18px;
+			section.content section.who {
+				
 			}
+				
+				section.content section.who p {
+					font-size: 14px;
+					line-height: 18px;
+					min-height: 70px;
+				}
 				
 				section.content section.who dl dt {
 					font-size: 14px;
