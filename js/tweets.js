@@ -46,7 +46,7 @@
 	function twittercallback_them(search)
 	{
 		(function(tweet) {
-			//console.log(tweet);
+			console.log(tweet);
 			$('div.tweet-hashtag div.active img.avatar').attr('src',tweet.profile_image_url);
 			$('div.tweet-hashtag div.active h3').html(tweet.from_user_name + ' <small><a href="//twitter.com/'+tweet.from_user+'" target="_blank">@'+tweet.from_user+'</a></small>');
 			$('div.tweet-hashtag div.active div.author h6 a').attr('href','//twitter.com/'+tweet.from_user+'/status/'+tweet.id_str).text(relative_time(tweet.created_at));
