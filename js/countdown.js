@@ -113,7 +113,7 @@ jQuery.fn.countdown = function(userOptions)
 };
 	
 	var kickoff = (function() {
-		var timestamp = 1362996000; // 11th March 2013 1000 +0000
+		var timestamp = 1363010400; // 11th March 2013 1400 +0000
 		var now = Math.round((new Date()).getTime() / 1000);
 		var diff = timestamp - now;
 		
