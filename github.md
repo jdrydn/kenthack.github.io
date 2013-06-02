@@ -28,4 +28,8 @@ Obviously this won't be enforced. If people don't want their code public then th
 
 **Github** also have released [Mac](//mac.github.com) & [Windows](//windows.github.com) apps that make interacting with Github easy, which is perfect for beginners just getting started with Github!
 
-I've setup an example repo - what I imagine a repo would look like after a hackathon - for you to see. The repo is at [github.com/kenthack/2012-example](//github.com/kenthack/2012-example) and the site for it is at [kenthack.com/2012-example](//kenthack.com/2012-example) (*The site itself is a [simple Github pages site](//pages.github.com), on the gh-pages branch of the Github repo. Because it's under the **kenthack** organization on Github, the gh-pages site gets put under the **kenthack.com** domain!*).
+I've setup an example repo - what I imagine a repo would look like after a hackathon - for you to see. The repo is at [github.com/kenthack/2012-example](//github.com/kenthack/2012-example) and the site for it is at [kenthack.com/2012-example](//kenthack.com/2012-example).
+
+(The site itself is a [simple Github pages site](//pages.github.com), on the gh-pages branch of the Github repo. Because it's under the **kenthack** organization on Github, the gh-pages site gets put under the **kenthack.com** domain!).
+
+[github]: http://github.com/kenthack

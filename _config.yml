@@ -1,1 +1,7 @@
 permalink: /:categories/:title
+
+source: .
+destination: ./_site
+safe: true
+lsi: false
+pygments: true
