@@ -1,0 +1,115 @@
+	
+	body {
+		background: #336699 url('../img/bg.png') repeat;
+		color: #e5e5e5;
+		font-family: 'Ubuntu', sans-serif;
+		font-size: 18px;
+		line-height: 20px;
+	}
+	
+	h1, h2, h3, h4, h5, h6 {
+		font-weight: normal;
+	}
+	
+	header {
+		background: rgba(255, 255, 255, 0.65);
+		padding: 20px 0 20px 0;
+		width: 100%;
+	}
+		
+		header h1 {
+			color: #000;
+			font-family: 'Ubuntu', sans-serif;
+			font-size: 32px;
+			font-weight: normal;
+		}
+		
+		header a {
+			color: #326598;
+		}
+			
+			header a.icon {
+				
+			}
+				
+				header a.icon img {
+					max-width: 250px;
+				}
+	
+	section.content {
+		padding: 20px 0 30px 0;
+	}
+		
+		section.content a {
+			color: #08b1eb;
+		}
+			
+			section.content a:hover, section.content a:visited {
+				text-decoration: underline;
+			}
+		
+		p {
+			margin: 10px 0 20px 0;
+		}
+			
+			p.lead {
+				font-size: 28px;
+			}
+		
+		div.focus-hero {
+			color: #fff;
+			margin: 10px 0 10px 0;
+		}
+			
+			div.focus-hero span {
+				display: block;
+				font-size: 48px;
+				line-height: 58px;
+				margin: 10px 0 10px 0;
+				text-transform: uppercase;
+				text-align: right;
+			}
+				
+				div.focus-hero span.focus-question {
+					font-size: 38px;
+				}
+		
+		div.about-what {
+			margin: 80px 0 60px 0;
+		}
+		
+		div.about-venue {
+			margin: 40px 0 60px 0;
+		}
+		
+		div.about-map {
+			margin: 40px 0 60px 0;
+		}
+		
+		div.about-eventbrite {
+			margin: 40px 0 70px 0;
+		}
+		
+		div.about-who {
+			margin: 40px 0 60px 0;
+		}
+		
+		div.social-plugins {
+			margin: 20px 0 80px 0;
+		}
+	
+	footer {
+		font-size: 12px;
+		line-height: 14px;
+		margin: 0 0 40px 0;
+		padding: 10px 0 0 0;
+	}
+		
+		footer a {
+			color: #08b1eb;
+		}
+			
+			footer a:hover, footer a:visited {
+				text-decoration: none;
+			}
+	
