@@ -11,6 +11,17 @@
 		font-weight: normal;
 	}
 	
+	dl {
+		
+	}
+		dl dt {
+			padding-top: 15px;
+		}
+		
+		dl dt:first-child {
+			padding-top: 0;
+		}
+	
 	header {
 		background: rgba(255, 255, 255, 0.65);
 		padding: 20px 0 20px 0;
@@ -91,6 +102,10 @@
 		}
 		
 		div.about-who {
+			margin: 40px 0 60px 0;
+		}
+		
+		div.faqs {
 			margin: 40px 0 60px 0;
 		}
 		
