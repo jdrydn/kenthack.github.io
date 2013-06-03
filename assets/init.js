@@ -7,6 +7,7 @@
 			d.body.appendChild(js);
 		}
 	}(document, {
+		"analytics" : "/assets/js/analytics.js",
 		"facebook" : "//connect.facebook.net/en_GB/all.js#xfbml=1&appId=162383427114019",
 		"twitter" : "//platform.twitter.com/widgets.js",
 		"google" : "https://apis.google.com/js/plusone.js"
